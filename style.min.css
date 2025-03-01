@@ -477,7 +477,7 @@ strong {
 
 @media  screen and (min-width: 991px) {
   .hero {
-    height: 0vhe;
+    height: fit-content;
   }
 }
 
